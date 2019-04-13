@@ -310,4 +310,8 @@ main {
   main#home h1 {
     margin-top: 10vh; }
   .projects {
-    grid-template-columns: 1fr; } }
+    grid-template-columns: 1fr; }
+  .portrait {
+    background: url(../img/portriat3.jpg);
+    width: 100px;
+    height: 100px; } }
